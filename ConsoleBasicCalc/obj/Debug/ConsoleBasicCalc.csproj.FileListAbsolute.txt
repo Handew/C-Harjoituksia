@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.exe.config
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.exe
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.pdb
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.exe
+C:\Users\Hannu\source\repos\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hannu\source\repos\Aikalaskuri\bin\Debug\Aikalaskuri.exe.config
+C:\Users\Hannu\source\repos\Aikalaskuri\bin\Debug\Aikalaskuri.exe
+C:\Users\Hannu\source\repos\Aikalaskuri\bin\Debug\Aikalaskuri.pdb
+C:\Users\Hannu\source\repos\Aikalaskuri\obj\Debug\Aikalaskuri.exe
+C:\Users\Hannu\source\repos\Aikalaskuri\obj\Debug\Aikalaskuri.pdb

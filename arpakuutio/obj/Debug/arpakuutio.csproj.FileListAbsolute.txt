@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\arpakuutio\bin\Debug\arpakuutio.exe.config
+C:\Users\Hannu\source\repos\arpakuutio\bin\Debug\arpakuutio.exe
+C:\Users\Hannu\source\repos\arpakuutio\bin\Debug\arpakuutio.pdb
+C:\Users\Hannu\source\repos\arpakuutio\obj\Debug\arpakuutio.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\arpakuutio\obj\Debug\arpakuutio.exe
+C:\Users\Hannu\source\repos\arpakuutio\obj\Debug\arpakuutio.pdb

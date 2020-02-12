@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\Ikalaskuri\obj\Debug\Ikalaskuri.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\Ikalaskuri\bin\Debug\Ikalaskuri.exe.config
+C:\Users\Hannu\source\repos\Ikalaskuri\bin\Debug\Ikalaskuri.exe
+C:\Users\Hannu\source\repos\Ikalaskuri\bin\Debug\Ikalaskuri.pdb
+C:\Users\Hannu\source\repos\Ikalaskuri\obj\Debug\Ikalaskuri.exe
+C:\Users\Hannu\source\repos\Ikalaskuri\obj\Debug\Ikalaskuri.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hannu\source\repos\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.exe.config
+C:\Users\Hannu\source\repos\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.exe
+C:\Users\Hannu\source\repos\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.pdb
+C:\Users\Hannu\source\repos\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.exe
+C:\Users\Hannu\source\repos\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.pdb
