@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\bin\Debug\TiedonTallennusSofta.exe.config
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\bin\Debug\TiedonTallennusSofta.exe
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\bin\Debug\TiedonTallennusSofta.pdb
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\obj\Debug\TiedonTallennusSofta.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\obj\Debug\TiedonTallennusSofta.exe
+C:\Users\Hannu\source\repos\TiedonTallennusSofta\obj\Debug\TiedonTallennusSofta.pdb

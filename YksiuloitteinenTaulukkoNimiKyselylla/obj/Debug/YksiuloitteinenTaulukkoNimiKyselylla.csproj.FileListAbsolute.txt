@@ -1,0 +1,5 @@
+C:\Users\Hannu\source\repos\YksiuloitteinenTaulukkoNimiKyselylla\bin\Debug\YksiuloitteinenTaulukkoNimiKyselylla.exe.config
+C:\Users\Hannu\source\repos\YksiuloitteinenTaulukkoNimiKyselylla\bin\Debug\YksiuloitteinenTaulukkoNimiKyselylla.exe
+C:\Users\Hannu\source\repos\YksiuloitteinenTaulukkoNimiKyselylla\bin\Debug\YksiuloitteinenTaulukkoNimiKyselylla.pdb
+C:\Users\Hannu\source\repos\YksiuloitteinenTaulukkoNimiKyselylla\obj\Debug\YksiuloitteinenTaulukkoNimiKyselylla.exe
+C:\Users\Hannu\source\repos\YksiuloitteinenTaulukkoNimiKyselylla\obj\Debug\YksiuloitteinenTaulukkoNimiKyselylla.pdb

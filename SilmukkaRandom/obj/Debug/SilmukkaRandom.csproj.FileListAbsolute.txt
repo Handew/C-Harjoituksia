@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\SilmukkaRandom\obj\Debug\SilmukkaRandom.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\SilmukkaRandom\bin\Debug\SilmukkaRandom.exe.config
+C:\Users\Hannu\source\repos\SilmukkaRandom\bin\Debug\SilmukkaRandom.exe
+C:\Users\Hannu\source\repos\SilmukkaRandom\bin\Debug\SilmukkaRandom.pdb
+C:\Users\Hannu\source\repos\SilmukkaRandom\obj\Debug\SilmukkaRandom.exe
+C:\Users\Hannu\source\repos\SilmukkaRandom\obj\Debug\SilmukkaRandom.pdb

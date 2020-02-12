@@ -1,0 +1,5 @@
+C:\Users\Hannu\source\repos\Tiedonsyottolomake\bin\Debug\Tiedonsyottolomake.exe.config
+C:\Users\Hannu\source\repos\Tiedonsyottolomake\bin\Debug\Tiedonsyottolomake.exe
+C:\Users\Hannu\source\repos\Tiedonsyottolomake\bin\Debug\Tiedonsyottolomake.pdb
+C:\Users\Hannu\source\repos\Tiedonsyottolomake\obj\Debug\Tiedonsyottolomake.exe
+C:\Users\Hannu\source\repos\Tiedonsyottolomake\obj\Debug\Tiedonsyottolomake.pdb

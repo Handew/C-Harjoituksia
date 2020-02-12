@@ -1,0 +1,5 @@
+C:\Users\Hannu\source\repos\yksiUloitteinenTaulukku\bin\Debug\yksiUloitteinenTaulukku.exe.config
+C:\Users\Hannu\source\repos\yksiUloitteinenTaulukku\bin\Debug\yksiUloitteinenTaulukku.exe
+C:\Users\Hannu\source\repos\yksiUloitteinenTaulukku\bin\Debug\yksiUloitteinenTaulukku.pdb
+C:\Users\Hannu\source\repos\yksiUloitteinenTaulukku\obj\Debug\yksiUloitteinenTaulukku.exe
+C:\Users\Hannu\source\repos\yksiUloitteinenTaulukku\obj\Debug\yksiUloitteinenTaulukku.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\obj\Debug\silmukkaHarjoitus.csprojAssemblyReference.cache
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\bin\Debug\silmukkaHarjoitus.exe.config
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\bin\Debug\silmukkaHarjoitus.exe
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\bin\Debug\silmukkaHarjoitus.pdb
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\obj\Debug\silmukkaHarjoitus.exe
+C:\Users\Hannu\source\repos\silmukkaHarjoitus\obj\Debug\silmukkaHarjoitus.pdb
